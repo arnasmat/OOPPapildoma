@@ -1,4 +1,8 @@
+#include <sstream>
+
 #include "rbtreemap.h"
+#include "zodzio_apdorojimas.h"
+#include "fstream"
 
 int main() {
     RBTreeMap<int> tree;
@@ -29,5 +33,10 @@ int main() {
     tree.remove(10);
 
     tree.navigate_tree();
+    std::stringstream text{"Labas, rytas! Aš Noriu suvalgyti Tavo MOTINĄ! ! !         Kaip gyveni"};
+    eilutes_apdorojimas(text);
+    std::ofstream out{"../data/output/output.txt"};
+    out << text.str();
+    out.close();
 
 }
