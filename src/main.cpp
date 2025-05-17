@@ -5,7 +5,7 @@
 #include "fstream"
 
 int main() {
-    RBTreeMap<int> tree;
+    /*RBTreeMap<int> tree;
     /*tree.insert(10);
     tree.insert(20);
     tree.insert(30);
@@ -23,7 +23,7 @@ int main() {
     }
 
     std::cout<<(tree.search(11) ? "Found" : "Not found")<<std::endl;
-    std::cout<<(tree.search(10000) ? "Found" : "Not found")<<std::endl;*/
+    std::cout<<(tree.search(10000) ? "Found" : "Not found")<<std::endl;#1#
 
     tree.insert(10);
     tree.insert(10);
@@ -37,6 +37,14 @@ int main() {
     eilutes_apdorojimas(text);
     std::ofstream out{"../data/output/output.txt"};
     out << text.str();
-    out.close();
+    out.close();*/
+
+    RBTreeMap<std::wstring> zodziai;
+    input(zodziai);
+    std::wstringstream out{};
+    zodziai.navigate_tree(out);
+    std::wofstream out2{"../data/output/output.txt"};
+    out2 << out.str();
+    out2.close();
 
 }

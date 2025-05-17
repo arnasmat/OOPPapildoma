@@ -4,33 +4,52 @@
 
 #include "zodzio_apdorojimas.h"
 
-void eilutes_apdorojimas(std::stringstream& eilute) {
-    const std::set<char> punctuation_marks = {
-        '.', ',', ';', ':', '!', '?', '-' , '(', ')', '[', ']', '{', '}', '\'', '"', '/', '\\', '|', '@', '#', '$', '%', '^', '&', '*', '_', '+', '=', '<', '>', '`', '~'
-    };
-    // '—' nesigauna idet, nes jis UTC8 ar 16, o ne ascii :(
+#include "rbtreemap.h"
 
-    char eilutes_char{};
-    std::string result;
+
+void eilutes_apdorojimas(std::wstringstream& eilute) {
+
+
+    const std::set<wchar_t> punctuation_marks = {
+        L'.', L',', L';', L':', L'!', L'?', L'-', L'(', L')', L'[', L']', L'{', L'}', L'\'', L'"', L'/', L'\\', L'|', L'@', L'#', L'$', L'%', L'^', L'&', L'*', L'_', L'+', L'=', L'<', L'>', L'`', L'~',
+        L'1', L'2', L'3', L'4', L'5', L'6', L'7', L'8', L'9', L'0',
+        L'—', L'–', L'−', L'‐', L'‒', L'―'
+    };
+    // VIS DAR – NEVEIKIA KAZKODEL.
+
+    wchar_t eilutes_char{};
+    std::wstring result;
     while (eilute.get(eilutes_char)) {
         if (!punctuation_marks.contains(eilutes_char)) {
-            result += eilutes_char;
+            result += towlower(eilutes_char);
         }
     }
 
     eilute.clear();
     eilute.str(result);
-    result.clear();
+}
 
-    std::string zodis{};
-    // gal sita daryt atskirame cikle ner labai efektyvu, bet ajjjj tingiu
-    while (eilute >> zodis) {
-        if (!result.empty()) {
-            result += " ";
-        }
-        result += zodis;
+void input(RBTreeMap<std::wstring>& Tree, const std::string& input) {
+
+    // Lietuviskos raides ir tam tikri lt simboliai neveikia normaliai, nes mingw c++20 nesupportina utc-8 normaliai. whatever
+    try {
+        std::locale::global(std::locale("lt-LT"));
+    } catch (std::runtime_error& e) {
+        std::cout << "Tarptautinės raidės gali veikti neteisingai" << e.what() << std::endl;
     }
 
-    eilute.clear();
-    eilute.str(result);
+    std::wifstream in{input};
+    std::wstringstream buffer{};
+    if (!in || !in.is_open()) {
+        throw std::runtime_error("Failed to open file");
+    }
+    in.imbue(std::locale());
+
+    buffer << in.rdbuf();
+    in.close();
+    eilutes_apdorojimas(buffer);
+    std::wstring zodis{};
+    while (buffer >> zodis) {
+        Tree.insert(zodis);
+    }
 }

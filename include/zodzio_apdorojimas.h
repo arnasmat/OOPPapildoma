@@ -8,7 +8,12 @@
 #include <iosfwd>
 #include <set>
 #include <sstream>
+#include "rbtreemap.h"
+#include <cwchar>
+#include <wctype.h>
+#include <cwctype>
 
-void eilutes_apdorojimas(std::stringstream& eilute);
+void eilutes_apdorojimas(std::wstringstream& eilute);
+void input(RBTreeMap<std::wstring>& Tree, const std::string& input="../data/input/input.txt");
 
 #endif //ZODZIO_APDOROJIMAS_H

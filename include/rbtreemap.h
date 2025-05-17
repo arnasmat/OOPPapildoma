@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <fstream>
+#include <vector>
 
 // Cia yra mano ADS uzduociai semestro pradzioje implementuotas RB Medis. Truputi ji modifikavau, kad jis butu kaip std::map :)
 // cia sitam pritaikymui tiesiog implementuoju, kad pair visada yra int ir ji naudoju kiekio skaiciavimui, nes tam jo ir reikia sioje uzduotyje
@@ -13,6 +14,7 @@ private:
     struct Node {
         T key{};
         int pair{0};
+        std::vector<std::pair<int,int>> pasikartojimo_vietos{};
         bool red{true};
         Node* parent{};
         Node* left{};
@@ -97,13 +99,13 @@ private:
         root->red = false;
     }
 
-    void navigate_tree_helper(Node* node) {
+    void navigate_tree_helper(Node* node, std::wstringstream& out) {
         if (node == nullptr) {
             return;
         }
-        navigate_tree_helper(node->left);
-        std::cout << node->key << " " << node->pair << " " << (node->red ? "Red" : "Black") << std::endl;
-        navigate_tree_helper(node->right);
+        navigate_tree_helper(node->left, out);
+        out << node->key << " " << node->pair << "\n";
+        navigate_tree_helper(node->right, out);
     }
 
 
@@ -300,8 +302,8 @@ public:
         return node;
     }
 
-    void navigate_tree() {
-        navigate_tree_helper(root);
+    void navigate_tree(std::wstringstream& out) {
+        navigate_tree_helper(root, out);
     }
 
 };
