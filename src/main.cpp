@@ -3,6 +3,7 @@
 #include "rbtreemap.h"
 #include "zodzio_apdorojimas.h"
 #include "fstream"
+#include <vector>
 
 int main() {
     /*RBTreeMap<int> tree;
@@ -40,8 +41,9 @@ int main() {
     out.close();*/
 
     // TODO - padaryt sita grazesni
+    std::vector<std::wstring> links;
     RBTreeMap<std::wstring> zodziai;
-    input(zodziai);
+    input(zodziai, links, "../data/input/input.txt");
     std::wstringstream out{};
     zodziai.navigate_tree(out);
     std::wofstream out2{"../data/output/output.txt"};
@@ -53,5 +55,11 @@ int main() {
     zodziai.navigate_tree_lentele(out22);
     out3 << out22.str();
     out3.close();
+
+    std::wofstream out4{"../data/output/links.txt"};
+    for (const auto& link : links) {
+        out4 << link << std::endl;
+    }
+    out4.close();
 
 }

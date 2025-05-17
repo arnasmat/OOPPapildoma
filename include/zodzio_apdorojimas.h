@@ -14,6 +14,6 @@
 #include <cwctype>
 
 void eilutes_apdorojimas(std::wstringstream& eilute);
-void input(RBTreeMap<std::wstring>& Tree, const std::string& input="../data/input/input.txt");
+void input(RBTreeMap<std::wstring>& Tree, std::vector<std::wstring>& links , const std::string& input="../data/input/input.txt");
 
 #endif //ZODZIO_APDOROJIMAS_H
