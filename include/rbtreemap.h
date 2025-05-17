@@ -221,10 +221,18 @@ public:
             parent->right = newNode;
         }
 
+        ++newNode->pair;
         insert_fixup(newNode);
     }
 
     void remove(T key) {
+
+        Node* found = this->search(key);
+        if(found->pair > 1) {
+            --found->pair;
+            return;
+        }
+
         Node* node = root;
         Node* temp = nullptr;
         Node* temp2= nullptr;

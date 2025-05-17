@@ -1,8 +1,8 @@
-#include "rbtree.h"
+#include "rbtreemap.h"
 
 int main() {
     RBTreeMap<int> tree;
-    tree.insert(10);
+    /*tree.insert(10);
     tree.insert(20);
     tree.insert(30);
     tree.insert(15);
@@ -19,7 +19,15 @@ int main() {
     }
 
     std::cout<<(tree.search(11) ? "Found" : "Not found")<<std::endl;
-    std::cout<<(tree.search(10000) ? "Found" : "Not found")<<std::endl;
+    std::cout<<(tree.search(10000) ? "Found" : "Not found")<<std::endl;*/
+
+    tree.insert(10);
+    tree.insert(10);
+    tree.insert(10);
+    tree.insert(10);
+    tree.insert(10);
+    tree.remove(10);
+
     tree.navigate_tree();
 
 }
