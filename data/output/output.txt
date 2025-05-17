@@ -432,4 +432,4 @@ yra 12
 žinoma 1
 žodis 1
 žodžiu 1
-– 11
+– 6

@@ -104,8 +104,21 @@ private:
             return;
         }
         navigate_tree_helper(node->left, out);
-        out << node->key << " " << node->pair << "\n";
+        out << node->key << " " << node->pair<< "\n";
         navigate_tree_helper(node->right, out);
+    }
+
+    void navigate_tree_lentele_helper(Node* node, std::wstringstream& out) {
+        if (node == nullptr) {
+            return;
+        }
+        navigate_tree_lentele_helper(node->left, out);
+        out << node->key << " " << node->pair<< " | ";
+        for (int i=0; i<node->pasikartojimo_vietos.size(); i++) {
+            out << node->pasikartojimo_vietos[i].first << "eil. " << node->pasikartojimo_vietos[i].second << "ž. |";
+        }
+        out<<"\n -----------------------------------------------------------\n";
+        navigate_tree_lentele_helper(node->right, out);
     }
 
 
@@ -195,11 +208,12 @@ public:
     RBTreeMap() = default;
     ~RBTreeMap() = default;
 
-    void insert(T key) {
+    void insert(T key, int lineNumber, int zodzioNumber) {
         // TODO - gal cia padaryt, kad nesearchintu kiekviena karta, nes bsk redundant operacijos
         Node* found = this->search(key);
         if(found != nullptr) {
             ++found->pair;
+            found->pasikartojimo_vietos.push_back({lineNumber, zodzioNumber});
             return;
         }
         Node* temp = root;
@@ -224,6 +238,7 @@ public:
         }
 
         ++newNode->pair;
+        newNode->pasikartojimo_vietos.push_back({lineNumber, zodzioNumber});
         insert_fixup(newNode);
     }
 
@@ -304,6 +319,10 @@ public:
 
     void navigate_tree(std::wstringstream& out) {
         navigate_tree_helper(root, out);
+    }
+
+    void navigate_tree_lentele(std::wstringstream& out) {
+        navigate_tree_lentele_helper(root, out);
     }
 
 };

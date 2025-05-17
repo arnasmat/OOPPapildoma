@@ -15,7 +15,7 @@ void eilutes_apdorojimas(std::wstringstream& eilute) {
         L'1', L'2', L'3', L'4', L'5', L'6', L'7', L'8', L'9', L'0',
         L'—', L'–', L'−', L'‐', L'‒', L'―'
     };
-    // VIS DAR – NEVEIKIA KAZKODEL.
+    // VIS DAR – NEVEIKIA DEL ENCODING URGHZTHIZWD! As myliu programavima ir problemu sprendima !
 
     wchar_t eilutes_char{};
     std::wstring result;
@@ -30,7 +30,6 @@ void eilutes_apdorojimas(std::wstringstream& eilute) {
 }
 
 void input(RBTreeMap<std::wstring>& Tree, const std::string& input) {
-
     // Lietuviskos raides ir tam tikri lt simboliai neveikia normaliai, nes mingw c++20 nesupportina utc-8 normaliai. whatever
     try {
         std::locale::global(std::locale("lt-LT"));
@@ -39,17 +38,27 @@ void input(RBTreeMap<std::wstring>& Tree, const std::string& input) {
     }
 
     std::wifstream in{input};
-    std::wstringstream buffer{};
     if (!in || !in.is_open()) {
         throw std::runtime_error("Failed to open file");
     }
     in.imbue(std::locale());
 
-    buffer << in.rdbuf();
-    in.close();
-    eilutes_apdorojimas(buffer);
-    std::wstring zodis{};
-    while (buffer >> zodis) {
-        Tree.insert(zodis);
+    std::wstring line;
+    int lineNumber = 1;
+
+    while (std::getline(in, line)) {
+        std::wstringstream lineStream(line);
+        eilutes_apdorojimas(lineStream);
+
+        std::wstring zodis;
+        int zodzioNumber{1};
+        while (lineStream >> zodis) {
+            Tree.insert(zodis, lineNumber, zodzioNumber);
+            zodzioNumber++;
+        }
+
+        lineNumber++;
     }
+
+    in.close();
 }

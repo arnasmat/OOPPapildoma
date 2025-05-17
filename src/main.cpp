@@ -39,6 +39,7 @@ int main() {
     out << text.str();
     out.close();*/
 
+    // TODO - padaryt sita grazesni
     RBTreeMap<std::wstring> zodziai;
     input(zodziai);
     std::wstringstream out{};
@@ -46,5 +47,11 @@ int main() {
     std::wofstream out2{"../data/output/output.txt"};
     out2 << out.str();
     out2.close();
+
+    std::wstringstream out22{};
+    std::wofstream out3{"../data/output/lentele.txt"};
+    zodziai.navigate_tree_lentele(out22);
+    out3 << out22.str();
+    out3.close();
 
 }
