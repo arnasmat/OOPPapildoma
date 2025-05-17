@@ -12,6 +12,7 @@ template <typename T>
 class RBTreeMap {
 private:
     struct Node {
+        // TODO - cj cia pair net nereikia, jeigu naudoju vektoriu. Galima cj tsg padaryt pasikartojimo_vietos.size(). aj tng keist db
         T key{};
         int pair{0};
         std::vector<std::pair<int,int>> pasikartojimo_vietos{};

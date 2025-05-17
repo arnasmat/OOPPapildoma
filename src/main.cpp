@@ -62,4 +62,17 @@ int main() {
     }
     out4.close();
 
+    /*std::ifstream inTLD{"../data/input/inputTLD.txt"};
+    std::ofstream outTLD{"../data/output/TLDS"};
+
+    outTLD << "std::set<std::wstring> tlds = {";
+    std::string line;
+    std::getline(inTLD, line);
+
+    while (inTLD >> line) {
+        outTLD << "L\"" << line <<"\", ";
+    }
+    outTLD << "};";
+    inTLD.close();
+    outTLD.close();*/
 }
