@@ -5,10 +5,10 @@
 nuorodų radimą tekste :)
 
 # 🛠️ Projekto kompiliavimo instrukcijos
-1. Atsiųsti [g++ kompiliatorių](https://sourceforge.net/projects/mingw-w64/)
+1. Atsiųsti [Visual Studio C++ kompiliatorių](https://visualstudio.microsoft.com/downloads/)
 2. Atsisiųsti [CMake (Bent v. 3.25)](https://cmake.org/download/)
 3. [Klonuoti šio projekto direktoriją](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-4. Atsidaryti komandinę eilutę (cmd arba powershell) ir į ją įvesti </br> `cmake -G "MinGW Makefiles" -B build -S .; cmake --build build`
+4. Atsidaryti komandinę eilutę (cmd arba powershell) ir į ją įvesti </br> `cmake -G "Visual Studio 17 2022" -B build -S .; cmake --build build`
 5. Eiti į naujai sukurtą /build/ direktoriją ir joje paleisti <strong>OOPPapildoma.exe</strong> :)
 
 

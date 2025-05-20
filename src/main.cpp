@@ -6,6 +6,13 @@
 #include <vector>
 
 int main() {
+
+    try {
+        std::locale::global(std::locale(::setlocale(LC_ALL,"lt_LT.UTF-8")));
+    } catch (std::runtime_error& e) {
+        std::cout << "Tarptautinės raidės gali veikti neteisingai" << e.what() << std::endl;
+    }
+
     /*RBTreeMap<int> tree;
     /*tree.insert(10);
     tree.insert(20);
