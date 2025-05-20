@@ -1,1 +1,564 @@
 a 1 | 6eil. 36
+adresų 1 | 38eil. 2
+ai 1 | 38eil. 26
+aikštumą 1 | 14eil. 24
+akumuliacinio 1 | 18eil. 4
+alyta 1 | 6eil. 48
+alytus 1 | 6eil. 52
+alėja 1 | 35eil. 13
+ambasados 1 | 1eil. 42
+ankstesnių 1 | 40eil. 7
+antakalnio 1 | 33eil. 39
+antavilio 1 | 25eil. 14
+antavilis 1 | 21eil. 50
+antavilių 2 | 25eil. 10, 33eil. 15
+apdorojamą 1 | 37eil. 38
+apie 2 | 6eil. 34, 37eil. 19
+aplink 1 | 33eil. 24
+apskrities 1 | 1eil. 5
+ar 2 | 38eil. 36, 41eil. 7
+arkivyskupijos 1 | 1eil. 16
+asociatyvių 1 | 41eil. 4
+atodanga 3 | 14eil. 95, 14eil. 97, 14eil. 99
+atsiveria 1 | 14eil. 91
+atstovybės 2 | 1eil. 44, 1eil. 49
+atveju 1 | 38eil. 10
+auga 3 | 33eil. 27, 33eil. 33, 33eil. 57
+augalų 1 | 35eil. 26
+augavietė 2 | 35eil. 30, 35eil. 33
+augaviečių 1 | 35eil. 28
+aukštaičių 1 | 14eil. 23
+aukštuma 1 | 14eil. 29
+aukštumos 2 | 14eil. 71, 14eil. 82
+aukštumą 1 | 14eil. 19
+aukštumų 1 | 14eil. 3
+aukščiausiai 1 | 16eil. 9
+aukščiausiasis 1 | 1eil. 36
+aukščiausios 1 | 1eil. 24
+aukščiausių 1 | 33eil. 59
+aštuonių 1 | 35eil. 18
+balsys 1 | 25eil. 28
+baltiešos 1 | 25eil. 43
+baltijos 2 | 9eil. 17, 14eil. 2
+baltupiais 1 | 14eil. 39
+baltupių 1 | 35eil. 29
+balžio 1 | 25eil. 13
+baseiną 1 | 21eil. 5
+be 1 | 21eil. 39
+bebrų 1 | 23eil. 19
+bei 2 | 25eil. 19, 25eil. 53
+belmonto 1 | 33eil. 40
+bendriniu 1 | 6eil. 17
+bendrinėje 1 | 6eil. 20
+bent 1 | 38eil. 23
+bernardinų 1 | 33eil. 82
+bet 2 | 37eil. 14, 38eil. 15
+bevardžių 1 | 23eil. 4
+bus 1 | 41eil. 11
+buvo 1 | 39eil. 26
+būdamas 1 | 6eil. 86
+būti 2 | 6eil. 81, 40eil. 3
+būtina 1 | 38eil. 18
+būtu 1 | 37eil. 23
+būtų 2 | 38eil. 22, 39eil. 9
+cedronas 1 | 21eil. 57
+cedrono 1 | 25eil. 55
+centras 2 | 1eil. 13, 1eil. 17
+centrinė 1 | 14eil. 49
+centrinėje 1 | 33eil. 70
+centro 1 | 9eil. 14
+cirkas 1 | 18eil. 17
+com 1 | 7eil. 4
+count 1 | 37eil. 67
+cross 1 | 39eil. 4
+dalis 4 | 14eil. 44, 14eil. 51, 25eil. 8, 37eil. 57
+dalyje 1 | 33eil. 72
+dar 1 | 21eil. 46
+darbų 1 | 40eil. 8
+daug 1 | 35eil. 43
+daugiau 1 | 39eil. 20
+daugiausia 2 | 14eil. 75, 33eil. 45
+daukšos 1 | 6eil. 112
+davusi 1 | 6eil. 7
+dažniau 1 | 37eil. 60
+dažniausiai 1 | 6eil. 71
+dengiantys 1 | 33eil. 37
+diplomatinės 1 | 1eil. 45
+dramatiško 1 | 29eil. 8
+draustinių 1 | 35eil. 44
+driekiasi 1 | 33eil. 53
+dvarčione 1 | 21eil. 54
+dėl 1 | 14eil. 89
+e 1 | 37eil. 43
+eglių 1 | 33eil. 61
+eglynai 1 | 33eil. 48
+eilutėse 1 | 39eil. 17
+erozijos 1 | 14eil. 90
+erį 1 | 37eil. 68
+esantis 1 | 25eil. 24
+etimologija 1 | 4eil. 1
+europos 1 | 9eil. 13
+ežerai 2 | 25eil. 18, 25eil. 44
+ežeras 3 | 25eil. 32, 25eil. 49, 25eil. 52
+ežeringiausia 1 | 25eil. 4
+ežeringą 1 | 14eil. 22
+ežerus 1 | 33eil. 26
+ežerynas 1 | 25eil. 27
+ežerėliai 1 | 25eil. 47
+ežerų 2 | 25eil. 3, 25eil. 26
+faile 1 | 37eil. 45
+failą 3 | 37eil. 39, 38eil. 58, 39eil. 2
+forma 4 | 6eil. 28, 6eil. 39, 6eil. 108, 6eil. 123
+formos 1 | 6eil. 55
+gali 1 | 6eil. 80
+galiojančius 1 | 40eil. 11
+galite 2 | 37eil. 11, 38eil. 12
+galutinėms 1 | 40eil. 9
+galėjo 1 | 6eil. 61
+galūnė 1 | 6eil. 66
+gamta 1 | 28eil. 1
+garbenio 1 | 35eil. 32
+gariūnais 1 | 23eil. 8
+gariūnų 1 | 18eil. 15
+gelūžės 1 | 25eil. 41
+geografija 1 | 7eil. 1
+geografinio 1 | 9eil. 12
+geriau 1 | 37eil. 21
+giliai 1 | 14eil. 6
+gilų 1 | 14eil. 62
+gimine 2 | 6eil. 77, 6eil. 95
+giminės 1 | 6eil. 88
+girulių 1 | 33eil. 68
+google 1 | 7eil. 3
+grąžei 1 | 38eil. 55
+gulbinas 1 | 25eil. 29
+gulbinų 1 | 25eil. 31
+gynimo 1 | 41eil. 13
+hidrologija 1 | 19eil. 1
+https 3 | 7eil. 2, 38eil. 29, 38eil. 33
+individualiai 1 | 41eil. 15
+institucijos 1 | 1eil. 26
+intakas 3 | 14eil. 69, 21eil. 31, 21eil. 37
+intakų 1 | 21eil. 21
+iose 1 | 39eil. 15
+ir 27 | 1eil. 9, 1eil. 37, 1eil. 43, 6eil. 51, 6eil. 63, 6eil. 101, 6eil. 103, 9eil. 5, 14eil. 16, 14eil. 67, 14eil. 87, 25eil. 34, 29eil. 5, 29eil. 7, 33eil. 17, 33eil. 47, 33eil. 65, 33eil. 76, 33eil. 91, 35eil. 23, 35eil. 38, 37eil. 35, 37eil. 51, 37eil. 66, 38eil. 7, 38eil. 54, 41eil. 6
+iš 7 | 6eil. 68, 21eil. 10, 37eil. 13, 38eil. 14, 38eil. 46, 39eil. 19, 41eil. 3
+iškyla 1 | 16eil. 11
+išleistame 1 | 6eil. 114
+išlikusi 1 | 6eil. 119
+išoriniame 1 | 37eil. 44
+išraižytais 1 | 14eil. 78
+išraižytoje 1 | 14eil. 7
+išrinkti 1 | 38eil. 49
+išveskite 1 | 37eil. 46
+išvesti 1 | 38eil. 56
+jam 1 | 6eil. 5
+jau 1 | 6eil. 110
+jeruzalės 1 | 25eil. 57
+juodžio 1 | 25eil. 15
+juosia 1 | 21eil. 28
+juostoje 1 | 14eil. 5
+jį 1 | 6eil. 92
+jūros 1 | 9eil. 18
+jūsų 3 | 37eil. 8, 38eil. 4, 38eil. 44
+kableliai 1 | 37eil. 49
+kad 4 | 6eil. 82, 6eil. 96, 37eil. 22, 38eil. 19
+kaip 2 | 6eil. 47, 38eil. 6
+kairėnų 1 | 25eil. 48
+kalboje 2 | 6eil. 21, 6eil. 117
+kalbos 1 | 6eil. 65
+kalnų 1 | 33eil. 84
+kalva 1 | 16eil. 15
+kalvarijų 1 | 33eil. 80
+kalvotą 1 | 14eil. 15
+kalvynas 2 | 18eil. 14, 18eil. 20
+kalvyno 1 | 14eil. 4
+kalvynų 1 | 33eil. 35
+kardalapio 1 | 35eil. 31
+kartą 2 | 37eil. 62, 39eil. 23
+kartų 2 | 37eil. 3, 37eil. 71
+katekizme 1 | 6eil. 115
+kaukysa 1 | 21eil. 22
+kaštonų 1 | 35eil. 14
+kebabai 1 | 31eil. 4
+kebabine 1 | 31eil. 2
+keletas 2 | 21eil. 47, 25eil. 2
+keletu 1 | 21eil. 19
+keli 2 | 25eil. 45, 38eil. 24
+kerta 1 | 21eil. 7
+kiek 2 | 37eil. 2, 37eil. 70
+kiekvienas 2 | 37eil. 4, 39eil. 18
+kitas 1 | 21eil. 29
+kiti 2 | 18eil. 9, 37eil. 52
+kitoks 1 | 37eil. 24
+kitur 1 | 25eil. 62
+klevų 1 | 35eil. 19
+km 3 | 9eil. 8, 9eil. 15, 14eil. 54
+komiško 1 | 29eil. 6
+konkretus 1 | 37eil. 72
+konstitucinis 1 | 1eil. 38
+konteinerių 1 | 41eil. 5
+kraštovaizdžiai 1 | 18eil. 12
+kt 4 | 25eil. 35, 33eil. 18, 33eil. 92, 35eil. 24
+kur 5 | 25eil. 9, 33eil. 20, 33eil. 43, 37eil. 15, 38eil. 16
+kuri 2 | 6eil. 41, 6eil. 70
+kuriame 1 | 33eil. 56
+kurie 1 | 37eil. 58
+kurioje 3 | 39eil. 8, 39eil. 11, 39eil. 14
+kurios 1 | 14eil. 25
+kuris 1 | 14eil. 57
+kyla 2 | 14eil. 13, 14eil. 30
+labai 1 | 21eil. 14
+lavoriškių 1 | 33eil. 11
+lazdynų 1 | 33eil. 66
+ledyniniai 1 | 18eil. 11
+ledynmetinio 1 | 18eil. 3
+leidžiasi 2 | 14eil. 60, 14eil. 74
+lemti 1 | 6eil. 62
+lenkų 1 | 6eil. 64
+lentelę 1 | 39eil. 7
+liepa 2 | 35eil. 7, 35eil. 9
+liepkalnio 1 | 33eil. 42
+liepų 1 | 35eil. 12
+lietuvoje 1 | 9eil. 3
+lietuvos 8 | 1eil. 2, 1eil. 27, 1eil. 30, 1eil. 32, 1eil. 35, 6eil. 32, 29eil. 3, 33eil. 60
+link 1 | 14eil. 58
+lotynų 1 | 6eil. 116
+lt 6 | 12eil. 3, 31eil. 3, 38eil. 32, 38eil. 35, 38eil. 41, 38eil. 43
+m 6 | 1eil. 19, 3eil. 1, 6eil. 111, 6eil. 113, 16eil. 4, 16eil. 12
+mama 1 | 19eil. 3
+masyvas 1 | 33eil. 3
+mažasis 1 | 25eil. 30
+mažesnių 1 | 33eil. 74
+mažiau 1 | 37eil. 27
+medininkų 1 | 14eil. 18
+medžių 1 | 35eil. 4
+metu 1 | 41eil. 14
+miestas 3 | 1eil. 21, 6eil. 85, 21eil. 1
+mieste 1 | 25eil. 63
+miesto 12 | 1eil. 11, 6eil. 53, 11eil. 3, 11eil. 7, 14eil. 34, 14eil. 43, 14eil. 50, 16eil. 2, 21eil. 26, 21eil. 43, 33eil. 8, 33eil. 71
+miestą 3 | 6eil. 12, 6eil. 104, 21eil. 8
+minima 1 | 6eil. 109
+ministerijos 1 | 1eil. 34
+misijos 1 | 1eil. 46
+misionierių 1 | 33eil. 86
+miškai 3 | 11eil. 5, 33eil. 19, 33eil. 38
+miškas 3 | 33eil. 29, 33eil. 55, 33eil. 69
+miškuose 1 | 25eil. 11
+miškų 2 | 33eil. 13, 33eil. 75
+modelį 1 | 6eil. 46
+moreninių 1 | 33eil. 34
+moteriška 1 | 6eil. 76
+moteriškos 1 | 6eil. 58
+murle 1 | 21eil. 23
+naujanerių 1 | 14eil. 98
+naujųjų 1 | 25eil. 50
+ne 2 | 6eil. 75, 37eil. 26
+nebūtų 1 | 6eil. 97
+negu 2 | 37eil. 61, 39eil. 21
+nemenčinės 1 | 33eil. 12
+nereikia 1 | 37eil. 29
+neries 9 | 9eil. 6, 14eil. 9, 14eil. 46, 14eil. 55, 14eil. 68, 16eil. 6, 21eil. 4, 21eil. 30, 21eil. 36
+neryje 1 | 23eil. 1
+nerį 2 | 21eil. 13, 21eil. 42
+nesusipratimų 1 | 6eil. 98
+nukopijuoti 1 | 37eil. 34
+nuo 4 | 1eil. 18, 6eil. 57, 9eil. 11, 9eil. 16
+nurodantį 1 | 37eil. 69
+nurodyta 1 | 39eil. 10
+nusako 1 | 6eil. 90
+nėra 1 | 37eil. 55
+o 7 | 6eil. 67, 6eil. 74, 16eil. 8, 21eil. 24, 33eil. 30, 33eil. 62, 37eil. 63
+oficialiai 1 | 23eil. 17
+organizacijos 1 | 3eil. 7
+organizacijų 1 | 1eil. 48
+output 1 | 37eil. 42
+ozas 1 | 18eil. 8
+padaryta 1 | 6eil. 42
+pagal 2 | 6eil. 43, 40eil. 5
+pagrindinis 1 | 33eil. 1
+paimti 2 | 37eil. 12, 38eil. 13
+pakrantėse 1 | 16eil. 7
+pakraštyje 2 | 25eil. 37, 27eil. 4
+pakraštys 2 | 14eil. 27, 33eil. 14
+pakraštį 1 | 21eil. 27
+pakraščiais 2 | 14eil. 35, 21eil. 34
+paminėtas 1 | 39eil. 27
+panerių 2 | 18eil. 13, 33eil. 54
+papildoma 1 | 41eil. 1
+parengta 1 | 40eil. 4
+parkas 4 | 33eil. 79, 33eil. 81, 33eil. 85, 33eil. 90
+parke 1 | 35eil. 17
+parko 2 | 35eil. 6, 35eil. 11
+parku 1 | 23eil. 10
+parkuose 1 | 35eil. 41
+parkų 1 | 33eil. 77
+pasaulio 1 | 3eil. 8
+pasikartoja 1 | 37eil. 7
+pasikartojantis 1 | 39eil. 24
+pasikartojo 2 | 37eil. 59, 37eil. 74
+paskirta 1 | 41eil. 12
+pastatai 1 | 11eil. 1
+pat 4 | 6eil. 79, 14eil. 65, 14eil. 85, 37eil. 65
+pateikti 1 | 38eil. 27
+patenka 1 | 21eil. 2
+pats 1 | 6eil. 83
+patį 1 | 6eil. 45
+paveldo 1 | 3eil. 9
+pavidalu 1 | 38eil. 38
+pavilnių 2 | 33eil. 41, 35eil. 37
+pavilnyje 1 | 16eil. 13
+paviršius 3 | 12eil. 1, 14eil. 12, 16eil. 10
+pelkė 1 | 27eil. 7
+per 1 | 33eil. 49
+perėjimą 1 | 6eil. 56
+pietinis 1 | 14eil. 26
+pietinę 1 | 33eil. 50
+pietinį 1 | 21eil. 25
+pietrytinėje 1 | 9eil. 2
+pietryčiuose 2 | 14eil. 11, 33eil. 32
+pietus 1 | 9eil. 10
+pilaitės 2 | 25eil. 39, 33eil. 64
+pilių 1 | 35eil. 16
+pilnu 1 | 38eil. 28
+pirkti 1 | 31eil. 5
+pirmos 1 | 38eil. 8
+plano 1 | 29eil. 9
+plačiame 1 | 14eil. 53
+plikakalnio 1 | 14eil. 96
+plyti 2 | 14eil. 45, 27eil. 5
+poreikį 1 | 6eil. 91
+pradedant 1 | 14eil. 36
+prasideda 1 | 33eil. 67
+prezidentūra 1 | 1eil. 29
+priartėja 1 | 14eil. 83
+prie 2 | 14eil. 84, 25eil. 38
+pro 1 | 6eil. 11
+programiškai 1 | 37eil. 32
+pusę 2 | 33eil. 9, 33eil. 52
+pušynai 1 | 33eil. 46
+pvz 2 | 14eil. 93, 37eil. 16
+pūčkorių 1 | 14eil. 94
+raguvų 1 | 14eil. 77
+raistelis 1 | 25eil. 33
+raiškesni 1 | 18eil. 10
+rajono 1 | 1eil. 7
+rasų 1 | 18eil. 18
+ratas 2 | 35eil. 15, 35eil. 20
+realizacijos 1 | 37eil. 41
+reference 1 | 39eil. 5
+regioniniuose 1 | 35eil. 40
+reikalavimus 1 | 40eil. 12
+reliktas 1 | 18eil. 6
+reljefo 1 | 18eil. 5
+repozitorija 1 | 40eil. 1
+respublikos 1 | 1eil. 28
+retų 1 | 35eil. 25
+ribiškių 1 | 18eil. 19
+riešė 1 | 21eil. 38
+riešės 2 | 14eil. 28, 25eil. 23
+rokantiškių 2 | 16eil. 14, 25eil. 59
+rytiniame 1 | 27eil. 2
+rytinė 2 | 14eil. 42, 25eil. 7
+rytinę 1 | 33eil. 7
+rytuose 1 | 33eil. 31
+rytų 2 | 6eil. 31, 21eil. 11
+rūmų 1 | 33eil. 89
+rūšių 1 | 35eil. 27
+sala 1 | 23eil. 20
+salotės 1 | 25eil. 42
+salų 1 | 23eil. 6
+santakoje 1 | 9eil. 7
+santariškėmis 1 | 14eil. 40
+sapiegų 2 | 33eil. 88, 35eil. 5
+saugomos 1 | 35eil. 36
+saugomų 1 | 35eil. 3
+savivaldybės 2 | 1eil. 8, 1eil. 12
+scenoje 1 | 29eil. 4
+seimas 1 | 1eil. 31
+senamiestis 1 | 3eil. 3
+seniūnijų 1 | 1eil. 15
+senoji 2 | 6eil. 25, 6eil. 120
+senslėnyje 1 | 14eil. 56
+senslėnį 1 | 14eil. 73
+senų 1 | 35eil. 2
+sietinas 1 | 6eil. 15
+skanu 1 | 31eil. 6
+skarbelio 1 | 25eil. 17
+skardžiai 1 | 14eil. 92
+skersai 1 | 21eil. 9
+skirtingas 1 | 37eil. 5
+skirtingus 1 | 37eil. 47
+skyrybos 1 | 37eil. 53
+slėnio 1 | 14eil. 10
+slėniuotą 1 | 14eil. 17
+slėnį 1 | 14eil. 63
+smulkesni 1 | 25eil. 46
+smulkių 1 | 21eil. 48
+sodai 1 | 33eil. 87
+sodas 1 | 33eil. 83
+sodyboje 1 | 35eil. 22
+sostinė 1 | 1eil. 3
+sostinėje 1 | 1eil. 22
+stačiais 1 | 14eil. 76
+std 1 | 41eil. 8
+straipsnio 1 | 37eil. 31
+straipsnį 1 | 37eil. 18
+string 1 | 41eil. 9
+su 4 | 6eil. 16, 21eil. 18, 21eil. 53, 39eil. 3
+sudaro 3 | 11eil. 2, 11eil. 6, 14eil. 66
+sudervėlė 1 | 21eil. 58
+sufozinis 1 | 18eil. 16
+sukurkite 1 | 39eil. 1
+suradimas 1 | 38eil. 3
+susiformavusių 1 | 23eil. 3
+suskaičiuokite 1 | 37eil. 1
+sutrumpintu 1 | 38eil. 37
+sąrašą 1 | 3eil. 10
+taip 4 | 6eil. 78, 14eil. 64, 14eil. 88, 37eil. 64
+talentingiausių 1 | 29eil. 2
+tame 1 | 38eil. 20
+tapelių 1 | 25eil. 16
+tarmėse 1 | 6eil. 33
+tarptautinių 1 | 1eil. 47
+tarsi 1 | 6eil. 89
+tavo 1 | 19eil. 2
+tačiau 2 | 23eil. 12, 38eil. 17
+taškai 1 | 37eil. 50
+teismai 1 | 1eil. 39
+teka 2 | 21eil. 16, 21eil. 35
+tekanti 1 | 6eil. 10
+tekstas 1 | 37eil. 25
+tekste 3 | 37eil. 9, 38eil. 5, 38eil. 21
+teksto 3 | 38eil. 48, 39eil. 12, 39eil. 16
+tekstą 2 | 37eil. 10, 38eil. 11
+telkšo 3 | 25eil. 12, 25eil. 40, 25eil. 61
+tematikos 1 | 41eil. 10
+terasomis 1 | 14eil. 61
+teritorijoje 1 | 21eil. 44
+teritorijos 1 | 11eil. 4
+ties 3 | 14eil. 31, 23eil. 7, 23eil. 15
+tik 1 | 23eil. 13
+tikslas 1 | 38eil. 45
+tipo 1 | 39eil. 6
+to 2 | 21eil. 40, 38eil. 47
+traukti 1 | 37eil. 30
+trumpų 1 | 21eil. 20
+tuomet 1 | 37eil. 40
+turi 1 | 40eil. 2
+turniškė 1 | 21eil. 56
+turniškėmis 1 | 23eil. 11
+tvenkiniai 1 | 25eil. 54
+tvenkinys 3 | 25eil. 56, 25eil. 58, 25eil. 60
+tą 1 | 6eil. 44
+unesco 1 | 3eil. 6
+universitetinis 1 | 1eil. 20
+upelių 1 | 21eil. 49
+upelė 1 | 21eil. 52
+upinių 1 | 23eil. 5
+upių 1 | 14eil. 86
+upė 2 | 6eil. 9, 21eil. 6
+upės 2 | 6eil. 49, 14eil. 59
+upėvardis 1 | 6eil. 13
+upę 1 | 6eil. 102
+url 3 | 38eil. 1, 38eil. 25, 38eil. 52
+us 1 | 38eil. 53
+už 1 | 33eil. 63
+užduoties 1 | 38eil. 9
+užduotis 1 | 41eil. 2
+užimantis 1 | 33eil. 10
+užsienio 1 | 1eil. 40
+užtenka 1 | 37eil. 33
+vadinama 1 | 23eil. 18
+vadinant 1 | 6eil. 100
+vadinti 1 | 6eil. 93
+vaizdingiausios 1 | 35eil. 34
+vakariniais 1 | 14eil. 33
+vakariniame 1 | 25eil. 36
+valakampių 1 | 33eil. 16
+valdžios 1 | 1eil. 25
+valstybių 1 | 1eil. 41
+vandenvardinis 1 | 6eil. 3
+vandenys 1 | 11eil. 8
+vardas 2 | 6eil. 50, 6eil. 54
+vardo 4 | 6eil. 27, 6eil. 38, 6eil. 105, 6eil. 122
+vardą 1 | 6eil. 6
+variantas 1 | 6eil. 23
+veikia 1 | 1eil. 23
+verkių 4 | 25eil. 22, 25eil. 51, 33eil. 28, 35eil. 39
+verkė 1 | 21eil. 55
+versijoms 1 | 40eil. 10
+verčiama 1 | 6eil. 72
+veržuva 1 | 21eil. 51
+viena 1 | 23eil. 14
+vienas 1 | 29eil. 1
+vienodai 1 | 6eil. 99
+vienos 1 | 33eil. 58
+vieną 1 | 39eil. 22
+vieta 1 | 16eil. 3
+vietoje 1 | 39eil. 13
+vietomis 1 | 14eil. 81
+vietos 1 | 35eil. 35
+vietovardis 1 | 6eil. 4
+vikipediją 1 | 37eil. 17
+vileišių 1 | 35eil. 21
+vilna 1 | 6eil. 124
+vilnia 5 | 6eil. 14, 6eil. 19, 6eil. 29, 14eil. 70, 21eil. 17
+vilniaus 8 | 1eil. 4, 1eil. 6, 1eil. 10, 3eil. 2, 6eil. 26, 6eil. 121, 27eil. 3, 33eil. 51
+vilnios 2 | 6eil. 8, 9eil. 4
+vilnis 1 | 6eil. 24
+vilniuje 1 | 33eil. 4
+vilnius 4 | 1eil. 1, 6eil. 1, 6eil. 40, 6eil. 106
+vilnių 1 | 37eil. 20
+vingio 3 | 23eil. 9, 33eil. 78, 35eil. 10
+vingiuoto 1 | 14eil. 8
+vinguriuodama 1 | 21eil. 15
+viršuliškėmis 1 | 14eil. 38
+viršūnes 1 | 33eil. 36
+visus 2 | 38eil. 50, 40eil. 6
+visą 1 | 33eil. 5
+vokė 1 | 21eil. 32
+vu 5 | 12eil. 2, 38eil. 31, 38eil. 34, 38eil. 40, 38eil. 42
+vyrauja 2 | 33eil. 21, 33eil. 44
+vyriausybė 1 | 1eil. 33
+vyriška 3 | 6eil. 73, 6eil. 94, 6eil. 107
+vyriškos 1 | 6eil. 87
+vyrišką 1 | 6eil. 60
+wilno 1 | 6eil. 69
+www 3 | 31eil. 1, 38eil. 30, 38eil. 39
+xv 1 | 6eil. 35
+yra 12 | 1eil. 14, 6eil. 2, 6eil. 118, 9eil. 1, 14eil. 52, 16eil. 5, 18eil. 2, 23eil. 2, 25eil. 1, 25eil. 5, 33eil. 73, 35eil. 1
+į 11 | 3eil. 5, 6eil. 59, 9eil. 9, 14eil. 14, 14eil. 21, 14eil. 72, 21eil. 3, 21eil. 12, 21eil. 41, 37eil. 37, 38eil. 57
+įkelti 1 | 37eil. 36
+įsigalėjo 1 | 6eil. 37
+įsigalėjęs 1 | 6eil. 22
+įsikūręs 1 | 14eil. 1
+įsteigta 1 | 35eil. 42
+įteka 1 | 21eil. 45
+įtrauktas 1 | 3eil. 4
+šalia 1 | 25eil. 21
+šaltiniuotais 1 | 14eil. 79
+šeškine 1 | 14eil. 37
+šeškinėje 1 | 18eil. 1
+šeškinės 1 | 18eil. 7
+šeškučių 1 | 27eil. 6
+šiauriniais 1 | 21eil. 33
+šiaurėje 3 | 14eil. 20, 25eil. 20, 33eil. 23
+šiaurės 5 | 14eil. 32, 14eil. 41, 25eil. 6, 27eil. 1, 33eil. 6
+šilai 1 | 33eil. 22
+šiuos 1 | 38eil. 51
+šlaitais 1 | 14eil. 80
+žaliuosius 1 | 33eil. 25
+žaliųjų 1 | 25eil. 25
+žeimenos 1 | 14eil. 47
+želdynų 1 | 33eil. 2
+žemiausia 1 | 16eil. 1
+žemumoje 1 | 14eil. 48
+ženklai 1 | 37eil. 54
+žinoma 1 | 6eil. 30
+žodis 4 | 6eil. 84, 37eil. 6, 37eil. 73, 39eil. 25
+žodžiu 2 | 6eil. 18, 37eil. 56
+žodžius 1 | 37eil. 48
+žodžių 1 | 37eil. 28
+žvėryno 1 | 35eil. 8
+žvėrynu 1 | 23eil. 16

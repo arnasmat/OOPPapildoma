@@ -113,12 +113,19 @@ private:
         if (node == nullptr) {
             return;
         }
+
         navigate_tree_lentele_helper(node->left, out);
-        out << node->key << " " << node->pair<< " | ";
-        for (int i=0; i<node->pasikartojimo_vietos.size(); i++) {
-            out << node->pasikartojimo_vietos[i].first << "eil. " << node->pasikartojimo_vietos[i].second << "ž. |";
+
+        out << node->key << " " << node->pair << " | ";
+        for (int i = 0; i < node->pasikartojimo_vietos.size(); i++) {
+            out << node->pasikartojimo_vietos[i].first << "eil. "
+                << node->pasikartojimo_vietos[i].second;
+            if (i < node->pasikartojimo_vietos.size() - 1) {
+                out << ", ";
+            }
         }
-        out<<"\n -----------------------------------------------------------\n";
+        out << "\n";
+
         navigate_tree_lentele_helper(node->right, out);
     }
 
