@@ -19,7 +19,6 @@ nuorodų radimą tekste :)
 | CPU         | Intel i7-13700H 2.40GHz |
 | RAM         | 16 GB DDR5              |
 | HDD         | SSD (NVMe)              |
-Testuota su `g++.exe (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 13.2.0`
 
 Kaip asociatyvų atminties konteinerį pasirinkau naudoti savo implementuotą RB Medį su truputį modifikacijos. </br>
 (Galvojau, kad reikia sukurti savo asociatyvų konteinerį, todėl jį sukūriau. Ups. Tikious viskas su tuo gerai ir
